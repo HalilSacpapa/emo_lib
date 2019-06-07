@@ -15,7 +15,8 @@ Here is a simple program to print emoji on linux.
 
 ### Notes
 
-You can see the lit of available emoji by typing '-h' or '--help'.\n
+You can see the lit of available emoji by typing '-h' or '--help'.
+
 You can type multiples arguments to display all of them.
 Feel free to suggest me some others emoji.
 
